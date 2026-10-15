@@ -61,6 +61,7 @@ Student_mate/
 ├── colors.xml / strings.xml      # Recursos da aplicação
 ├── styles.xml / themes.xml       # Estilos e temas
 └── README.md
+
 🚀 Como obter o código
 Clona o repositório através do Git:
 git clone https://github.com/Simao-PB/Student_mate.git
