@@ -1,5 +1,4 @@
 🎓 Student Mate
-
 Student Mate é uma aplicação móvel para Android, desenvolvida em Java, que pretende ajudar estudantes a organizar sessões de estudo, rever conteúdos com flashcards e acompanhar o progresso da aprendizagem.
 O projeto reúne ferramentas de revisão, agendamento de lembretes e visualização de estatísticas numa interface simples e focada no estudo.
 Estado do projeto: protótipo em desenvolvimento. O repositório contém código-fonte e recursos da aplicação, mas ainda não constitui um projeto Android Studio completo e compilável de forma autónoma.
@@ -61,7 +60,6 @@ Student_mate/
 ├── colors.xml / strings.xml      # Recursos da aplicação
 ├── styles.xml / themes.xml       # Estilos e temas
 └── README.md
-
 🚀 Como obter o código
 Clona o repositório através do Git:
 git clone https://github.com/Simao-PB/Student_mate.git
